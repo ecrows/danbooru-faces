@@ -1,3 +1,3 @@
 # danbooru-faces
 
-Requires OpenCV, lbpcascade_animeface, and the Danbooru2017 dataset from gwern.
+Requires numpy, OpenCV, lbpcascade_animeface, and the Danbooru2017 dataset from gwern.
