@@ -1,6 +1,6 @@
 # danbooru-faces
 
-Jupyter notebooks for cropping and processing anime faces from Gwern's Danbooru2017 dataset.  Ideal for feeding into GANs or performing facial feature detection.
+Jupyter notebooks for cropping and processing anime faces from Gwern's Danbooru2017 dataset.  I made this for my own personal GAN projects, and hope it might be useful for others.
 
 # Demonstration
 
@@ -12,3 +12,4 @@ Future work to be done towards adding mirror-padding and stabilization akin to t
 * numpy
 * OpenCV
 * [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface)
+* Some collection of anime-style images (I used Danbooru2017 SFW from Gwern)
