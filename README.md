@@ -1,6 +1,6 @@
 # danbooru-faces
 
-Jupyter notebooks for cropping and processing anime faces from Gwern's Danbooru2017 dataset.  I made this for my own personal GAN projects, and hope it might be useful for others.
+Jupyter notebooks for cropping and processing anime faces from Gwern's Danbooru2017 dataset.
 
 # Demonstration
 
