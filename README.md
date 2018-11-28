@@ -6,7 +6,7 @@ Jupyter notebooks for cropping and processing anime faces from Gwern's Danbooru2
 
 ![Demonstration Output](https://github.com/ecrows/danbooru-faces/raw/master/bishis3.gif)
 
-Future work to be done towards adding mirror-padding and stabilization akin to the CelebA-HQ dataset prepared by NVIDIA.
+Future work to be done towards adding mirror-padding and stabilization akin to the CelebA-HQ dataset prepared by NVIDIA in "Progressive Growing of GANs".
 
 # Requirements:
 * numpy
